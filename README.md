@@ -1,62 +1,58 @@
 # R Analytics Portfolio
 
-This repository showcases a collection of R projects
-demonstrating data cleaning, visualization, statistical analysis, and
-advanced quantitative methods.
+This repository presents polished R analyses drawn from my original coursework and research workflows. The scripts demonstrate data preparation, visualization, hypothesis testing, time-trend regression, latent-variable modeling, moderation and mediation, clustering, and multilevel modeling.
 
-The portfolio highlights techniques commonly used in data analytics,
-people analytics, and behavioral research, ranging from data wrangling
-and exploratory analysis to structural equation modeling and multilevel
-modeling.
+Each project folder contains one final analysis script and a short README describing the method, packages, and data requirements. Exploratory notes, abandoned model variants, duplicate code, personal file paths, and temporary output commands have been removed. The statistical models and variable names shown in the advanced projects reflect the original analyses.
+
 
 ------------------------------------------------------------------------
 
 ## Portfolio Projects
 
-### 📊 Data Wrangling with dplyr
+###  Data Wrangling with dplyr
 
 Cleaning, transforming, grouping, summarizing, and preparing datasets
 for analysis.
 
-### 📈 Data Visualization with ggplot2
+###  Data Visualization with ggplot2
 
 Publication-quality visualizations including scatterplots, density
 plots, boxplots, violin plots, and customized graphics.
 
-### 🧪 Hypothesis Testing
+###  Hypothesis Testing
 
 Paired and independent-samples t-tests, one-way ANOVA, and effect size
 estimation.
 
-### 📉 Interrupted Time Series Analysis
+###  Interrupted Time Series Analysis
 
 Segmented regression, Newey--West standard errors, and longitudinal
 trend visualization.
 
-### 📐 Confirmatory Factor Analysis
+###  Confirmatory Factor Analysis
 
 Measurement models, competing factor structures, standardized loadings,
 and model fit evaluation.
 
-### 🔗 Structural Equation Modeling
+###  Structural Equation Modeling
 
 Latent variable modeling, path analysis, mediation, indirect effects,
 and model comparison.
 
-### ⚖️ Moderation & Mediation
+###  Moderation & Mediation
 
 Interaction effects, simple slopes, mediation, and moderated mediation.
 
-### 📈 Latent Growth Curve Modeling
+###  Latent Growth Curve Modeling
 
 Longitudinal modeling using latent intercept and slope factors with
 time-invariant predictors.
 
-### 🎯 Cluster Analysis
+###  Cluster Analysis
 
 Hierarchical clustering, k-means clustering, silhouette diagnostics, and
 cluster visualization.
 
-### 🏢 Multilevel Modeling
+###  Multilevel Modeling
 
 Mixed-effects models for nested and repeated-measures data.
